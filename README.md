@@ -1,2 +1,3 @@
-# python-course
-This repository contains the python class for the course [EIE401] Digital Multimedia Processing
+# Python Course
+
+Este repositorio contiene la clase de python para empezar en el curso de multimedia.
