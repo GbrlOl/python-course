@@ -2,7 +2,8 @@
 
 Este repositorio contiene la clase de python para empezar en el curso de multimedia.
 
-# Outline
+<details>
+<summary>Outline</summary>
 
 1. Introducción a Python
 * ¿Por qué aprender Python? (Aplicaciones populares, comunidad, simplicidad)
