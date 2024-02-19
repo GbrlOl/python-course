@@ -1,6 +1,6 @@
 # Python Course
 
-Este repositorio contiene la clase de python para empezar en el curso de multimedia.
+Este repositorio contiene la materia para empezar a aprender python con el objetivo de abordar el curso procesamiento digital multimedia.
 
 <details>
 <summary>Outline</summary>
@@ -42,7 +42,8 @@ Este repositorio contiene la clase de python para empezar en el curso de multime
 * Try, except
 * Manejo de múltiples excepciones
 * Bloques finally y else
-  
+
+# Uso de módulos
 8. Introducción a la Programación Orientada a Objetos (POO)
 * Clases y objetos
 * Atributos y métodos
