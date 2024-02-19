@@ -47,6 +47,8 @@ Este repositorio contiene la materia para empezar a aprender python con el objet
 * Clases y objetos
 * Atributos y métodos
 * Herencia y polimorfismo
+<details>
+
 
 # Uso de módulos
 
