@@ -43,10 +43,11 @@ Este repositorio contiene la materia para empezar a aprender python con el objet
 * Manejo de múltiples excepciones
 * Bloques finally y else
 
-# Uso de módulos
 8. Introducción a la Programación Orientada a Objetos (POO)
 * Clases y objetos
 * Atributos y métodos
 * Herencia y polimorfismo
-* Trabajo con Archivos
-* Leer y escribir archivos (texto, binarios) Manejo del contexto con with Proyectos Prácticos y Ejercicios
+
+# Uso de módulos
+
+En el repositorio también está un archivo para aprender a usar numpy, matplotlib, etc.
