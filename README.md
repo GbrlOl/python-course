@@ -19,8 +19,7 @@ Este repositorio contiene la materia para empezar a aprender python con el objet
 * Listas
 * Tuplas
 * Diccionarios
-* Conjuntos
-* Operaciones comunes con estructuras de datos (indexación, slicing, métodos)
+* Conjuntos (Sets)
   
 4. Control de Flujo
 * Sentencias condicionales (if, elif, else)
@@ -29,25 +28,33 @@ Este repositorio contiene la materia para empezar a aprender python con el objet
   
 5. Funciones
 * Definición y llamada de funciones
-* Argumentos y parámetros (posicionales, palabras clave)
-* Valores de retorno
+* Tipado Estático
+* args y kwargs
+* Alcance
 * Funciones lambda
   
 6. Módulos y Paquetes
 * Importación de módulos
-* Uso de paquetes externos (ejemplo con requests o pandas)
-* Creación de módulos propios
-  
-7. Manejo de Excepciones
+* Paquetes Nativos
+* Paquetes Externos
+
+7. Introducción a la Programación Orientada a Objetos (POO)
+* Clases y Objetos
+* Creando una Clase
+* Constructor
+* Atributos de Clase
+* Métodos de Clase 
+* Atributos y Métodos Privados
+* Métodos Mágicos
+* Decorador Property 
+* Herencia 
+
+8. Manejo de Excepciones
 * Try, except
 * Manejo de múltiples excepciones
 * Bloques finally y else
 
-8. Introducción a la Programación Orientada a Objetos (POO)
-* Clases y objetos
-* Atributos y métodos
-* Herencia y polimorfismo
-* 
+ 
 </details>
 
 
