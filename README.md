@@ -50,9 +50,11 @@ Este repositorio contiene la materia para empezar a aprender python con el objet
 * Herencia 
 
 8. Manejo de Excepciones
-* Try, except
-* Manejo de múltiples excepciones
-* Bloques finally y else
+* Definición
+* Estructura
+* Tipos de Excepciones
+* else y finally
+* Invocando Excepciones
 
  
 </details>
