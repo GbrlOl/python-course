@@ -1,0 +1,14 @@
+Pregunta: ¿Qué es la teoría de circuito 1?
+Respuesta: Es el curso que se imparte en la Escuela de Ingeniería Eléctrica de la PUCV a las carreras de Ingeniería Civil Electrónica, Ingeniería Civil Eléctrica, Ingeniería Civil en Telecomunicaciones, Ingeniería Electrónica e Ingeniería Eléctrica.
+
+Pregunta: ¿Cuál es el programa del curso teoría de circuitos 1?
+Respuesta: El curso tiene los siguientes requerimientos:
+
+Sigla: EIE-280
+Nombre Asignatura: TEORÍA DE CIRCUITOS 1
+Créditos: 4
+Horas Teóricas: 4
+Horas Ayudantía: 2
+Horas de Estudio Personal: 6
+
+Para tomar el curso debe haber cursado el ramo Ecuaciones Diferencial.
