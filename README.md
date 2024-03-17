@@ -1,4 +1,5 @@
 # Python Course
+| [Ayudantía 1 - Python, Markdown, GitHub e Introducción a Overleaf](https://youtu.be/HjfdRc_AeRE?si=K3HKd-pUXT9hCHDN) |
 
 Este repositorio contiene la materia para empezar a aprender python con el objetivo de abordar el curso procesamiento digital multimedia.
 
