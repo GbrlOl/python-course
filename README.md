@@ -62,5 +62,8 @@ Este repositorio contiene la materia para empezar a aprender python con el objet
 
 
 # Uso de módulos
+| [Ver Aquí](./module_course_by_GabrielOlmos.ipynb) |
 
 En el repositorio también está un archivo para aprender a usar numpy, matplotlib, etc.
+
+**Nota: Se irá actualizando este notebook con más cosas.**
