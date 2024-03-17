@@ -1,5 +1,5 @@
 # Python Course
-| [Ayudantía 1 - Python, Markdown, GitHub e Introducción a Overleaf](https://youtu.be/HjfdRc_AeRE?si=K3HKd-pUXT9hCHDN) |
+| [Ayudantía 1 - Python, Markdown, GitHub e Introducción a Overleaf](https://www.youtube.com/playlist?list=PLsesc1pCZOn_Kovm2T_wdhoj81ishCpz9) |
 
 Este repositorio contiene la materia para empezar a aprender python con el objetivo de abordar el curso `[EIE401] Procesamiento Digital Multimedia`. En el siguiente repositorio
 estará el contenido que se irá realizando en las ayudantías ([Ver Aquí](https://github.com/GbrlOl/ayudantia-multimedia)).
