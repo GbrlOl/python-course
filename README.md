@@ -68,3 +68,15 @@ estará el contenido que se irá realizando en las ayudantías ([Ver Aquí](http
 En el repositorio está el notebook llamado `module_course_by_GabrielOlmos.ipynb` que muestra cómo utilizar distintos módulos, como `numpy`, `matplotlib`, `pandas` y cómo cargar sus datos. A medida que avanza el curso y aparece alguna librería nueva se irá documentando en ese archivo de google colab.
 
 **Nota: Se irá actualizando este notebook con más cosas.**
+
+<details>
+<summary>Outline</summary>
+
+1. Numpy
+2. Matplotlib
+3. Carga de datos
+4. Pandas
+
+ 
+</details>
+
